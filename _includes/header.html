@@ -1,0 +1,28 @@
+<!-- Header -->
+<header>
+    <div class="container">
+        <div class="intro-text">
+            <!--<div class="intro-lead-in"><span >University of Michigan</span></div>-->
+            <div><span class="intro-heading">Social Innovations Group</span></div>
+            <a href="#vision" class="page-scroll btn btn-xl">Learn More</a>
+        </div>
+    </div>
+
+    <!-- LAYER OVER THE SLIDER TO MAKE THE WHITE TEXT READABLE -->
+    <div id="layer"></div>
+    <!-- END LAYER -->
+
+    <!-- START SLIDER -->
+    <div id="slider" class="rev_slider">
+        <ul>
+            {% for slide in site.data.slider %}
+            <li data-transition="slideleft" data-slotamount="1" data-thumb="assets/img/slider/1.jpg">
+                <img src="img/sliders/{{slide.name}}.jpg">
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <!-- END SLIDER -->
+
+</header>
+

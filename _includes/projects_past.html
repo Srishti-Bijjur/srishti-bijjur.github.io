@@ -1,0 +1,33 @@
+<!-- Portfolio Grid Section -->
+
+{% assign posts = site.categories.past %}
+
+{% if posts %}
+<section id="pastprojects" class="bg-dark-gray projects">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Past Projects</h2>
+            </div>
+        </div>
+        <div class="row row-centered">
+            {% for post in posts %}
+            <div class="col-xs-10 portfolio-item col-centered custom-resp">
+                <a href="{{ post.url }}" class="portfolio-link" >
+                    <div class="portfolio-hover">
+                        <div class="portfolio-hover-content">
+                            <i class="fa fa-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img src="assets/{{post.datafile}}/thumbnail.jpg" class="img-responsive custom-imgresp" alt="">
+                </a>
+                <div class="portfolio-caption">
+                    <h4><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h4>
+                    <p class="text-muted">{{ post.subtitle }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endif %}
