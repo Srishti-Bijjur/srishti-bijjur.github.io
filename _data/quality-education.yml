@@ -74,3 +74,30 @@
   resources:
     - type: pdf
       link: Dillahunt_CHI16WS
+
+- name: "Towards an Effective Digital Literacy Intervention to Assist Returning Citizens with Job Search"
+  pic: OgbonnayaOgburu_CHI19_thumb
+  abstract: "In Proc. of CHI 2019"
+  authors: "Ogbonnaya-Ogburu, I.F., Toyama, K., and Dillahunt, T.R."
+  mainlink: OgbonnayaOgburu_CHI19
+  resources:
+    - type: pdf
+      link: OgbonnayaOgburu_CHI19
+
+- name: "Returning Citizens' Job Search and Technology Use: Preliminary Findings"
+  pic: OgbonnayaOgburu_CSCWEA18_thumb
+  abstract: "In ACM CSCW'18 Companion"
+  authors: "Ogbonnaya-Ogburu, I. F., Toyama, K., and Dillahunt, T. R."
+  mainlink: OgbonnayaOgburu_CSCWEA18
+  resources:
+    - type: pdf
+      link: OgbonnayaOgburu_CSCWEA18
+
+- name: "Learn with Friends: The Effects of Student Face-to-Face Collaborations on Massive Open Online Course Activities"
+  pic: p241-brooks_thumb
+  abstract: "In Proc. of Learning at Scale 2015"
+  authors: "Brooks, C., Stalburg, C., Dillahunt, T., Robert, L"
+  mainlink: p241-brooks
+  resources:
+    - type: pdf
+      link: p241-brooks

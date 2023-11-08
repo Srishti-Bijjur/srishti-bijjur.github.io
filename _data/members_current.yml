@@ -27,14 +27,6 @@
     - title: globe
       url: http://www.vaishnavk.com
 
-- name: Ihudiya Finda Ogbonnaya-Ogburu
-  pic: finda
-  position: UMSI Ph.D. Student
-  social:
-    - title: globe
-      url:  http://www.ihudiyaogburu.com
-    - title: linkedin
-      url: https://www.linkedin.com/in/ihudiyaogburu/
 
 - name: Aarti Israni
   pic: aarti
@@ -45,7 +37,7 @@
     - title: global
       url: http://www.aartiisrani.com/
 
-- name: Sylvia Darling 
+- name: Sylvia Darling
   pic: sylvia
   position: UMSI Ph.D. Student (MSI Alum)
   social:

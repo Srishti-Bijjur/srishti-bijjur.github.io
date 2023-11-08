@@ -63,3 +63,21 @@
       resources:
         - type: pdf
           link: Hsiao_CHIEA17
+
+    - name: "Additional Labors of the Entrepreneurial Self"
+      pic: Avle_PACMHCI19_thumb
+      abstract: "In Proc. ACM'19 Hum.-Comput. Interact. 3, CSCW"
+      authors: "Avle, S., Hui, J., Lindtner, S., and Dillahunt, T. R."
+      mainlink: Avle_PACMHCI19
+      resources:
+        - type: pdf
+          link:  Avle_PACMHCI19
+
+    - name: "People-Nearby Applications: How Newcomers Move Their Relationships Offline and Develop Social and Cultural Capital."
+      pic: Hsiao_CSCW17_thumb
+      abstract: "In Proc. of CSCW 2017."
+      authors: "Hsiao, J. C.-Y. and Dillahunt, T.R."
+      mainlink: Hsiao_CSCW17
+      resources:
+        - type: pdf
+          link: Hsiao_CSCW17

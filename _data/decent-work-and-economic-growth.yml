@@ -107,3 +107,21 @@
   resources:
     - type: pdf
       link: Dillahunt_CHI18
+
+- name: "Life Transitions and Social Technologies: Research and Design for Times of Life Change"
+  pic: Haimson_CSCWws19_thumb
+  abstract: "Workshop Proposal | In ACM CSCW'19 Companion"
+  authors: "Haimson, O. L., Semaan, B., Dym, B., Hsiao, J. C.-Y., Herron, D., and Moncur, W."
+  mainlink: Haimson_CSCWws19
+  resources:
+    - type: pdf
+      link: Haimson_CSCWws19
+
+- name: "The Future of Work(places): Creating a Sense of Place for On-demand Work"
+  pic: Hui_CSCWws19_thumb
+  abstract: "Workshop Proposal | In ACM CSCW'19 Companion"
+  authors: "Hui, J., Cranshaw, J., Kotturi, Y., and Kulkarni, C."
+  mainlink: Hui_CSCWws19
+  resources:
+    - type: pdf
+      link: Hui_CSCWws19

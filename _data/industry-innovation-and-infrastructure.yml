@@ -90,3 +90,21 @@
   resources:
       - type: pdf
         link: dillahunt_CHI22
+
+- name: "Reflections on Design Methods for Underserved Communities"
+  pic: Dillahunt_CSCW17WS_thumb
+  abstract: "CSCW 2017 Workshop"
+  authors: "Dillahunt, T.R., Erete, S., Galusca, R., Israni, A., Nacu, D., and Sengers, P."
+  mainlink: Dillahunt_CSCW17WS
+  resources:
+      - type: pdf
+        link: Dillahunt_CSCW17WS
+
+- name: "If God Gives Me the Chance I Will Design My Own Phone"
+  pic: pn0107-dillahunt-thumb
+  abstract: "*Honorable Mention* | In Proc. of UbiComp 2015."
+  authors: "Wyche, S., Dillahunt, T., Simiyu, N., Alaka, S."
+  mainlink: pn0107-dillahunt
+  resources:
+      - type: pdf
+        link: pn0107-dillahunt

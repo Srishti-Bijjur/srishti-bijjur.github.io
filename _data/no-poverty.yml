@@ -31,3 +31,12 @@
   resources:
       - type: pdf
         link: Wheeler_CHI18
+
+- name: "Everyday Resilience: Supporting Resilient Strategies among Low-socioeconomic-status Communities"
+  pic: Vyas_CSCW18_thumb
+  abstract: "Proc. ACM'18 Hum.-Comput. Interact. 1, CSCW, Article 105 (December 2017)"
+  authors: "Vyas, D. and Dillahunt, T."
+  mainlink: Wheeler_CHI18
+  resources:
+      - type: pdf
+        link: Vyas_CSCW18

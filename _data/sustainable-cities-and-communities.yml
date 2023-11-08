@@ -39,3 +39,12 @@ guidelines to help researchers facilitate community-based events when conducting
   resources:
     - type: pdf
       link: Dillahunt_CHI17
+
+- name: "Shifting from Surveillance-as-Safety to Safety-through-Noticing: A Photovoice Study with Eastside Detroit Residents"
+  pic: Alex_CHI23_thumb
+  abstract: "in Proc. CHI'23. Hum. Factors. Computing. Systems."
+  authors: "Lu, A.J., Sannon, S., Moy, C., Brewer, S., Green, J., Jackson, K.N., Reeder, D., Wafer, C., Ackerman, M.S, and Dillahunt, T.R."
+  mainlink: Alex_CHI23
+  resources:
+    - type: pdf
+      link: Alex_CHI23
