@@ -11,6 +11,10 @@ body {
     color: #333;
 }
 
+h4.sdg_heading {
+  color: white;
+}
+
 .logo {
 
 }
@@ -83,6 +87,14 @@ h6 {
 section.bg-dark-gray h2.section-heading {
     color: #ffffff;
 }
+
+section.bg-dark-gray h4.section-heading {
+    color: #ffffff;
+    line-height: 30px;
+    text-transform: none;
+    font-weight: normal;
+}
+
 
 .bg-darkest-gray {
     background-color: #222;
@@ -206,6 +218,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand.active {
     color: #c0392b;
 }
+
 
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
