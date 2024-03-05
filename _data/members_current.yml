@@ -64,7 +64,7 @@
 
 - name: Denny L. Starks
   pic: denny
-  position: UMSI undergrad,  Minor in Art & Design
+  position: UMSI undergrad, Minor in Art & Design
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/dennylstarks/
@@ -73,14 +73,14 @@
 
 - name: Cameron Moy
   pic: moy
-  position: UMSI undergrad,Minor in Social Class and Inequality and Music
+  position: UMSI undergrad, Minor in Social Class and Inequality and Music
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/cameronmoy/
 
 - name: Bridgit Jung
   pic: bridgit
-  position: UMSI undergrad,  Minor in Art & Design
+  position: UMSI Undergraduate student,  Minor in Art & Design
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/bridgit-jung/
@@ -89,7 +89,16 @@
 
 - name: Mila Filipof
   pic: mila
-  position: MSI
+  position: UMSI Graduate student
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/milafilipof591/
+
+- name: Jared Katzman
+  pic: jared
+  position:
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jaredleekatzman/
+    - title: globe
+      url: https://jaredleekatzman.com/

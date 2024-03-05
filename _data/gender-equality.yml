@@ -8,3 +8,12 @@
   resources:
     - type: pdf
       link: Anwar_PACMHCI20
+
+- name: "Designing Technology to Support Safety for Transgender Women & NonBinary People of Color"
+  pic: Starks_DIS19_thumb
+  abstract: "This work provides a preliminary understanding of how transgender women and non-binary people of color experience violence and manage safety, and what opportunities exist for HCI to support the safety needs of this community. We conducted nine interviews to understand how participants practice safety and what role technology played, if any, in these experiences. Interviewees expressed physical and psychological safety concerns, and managed safety by informing friends of their location using digital technologies, making compromises, and avoiding law enforcement. We designed U-Signal, a wearable technology and accompanying smartphone application prototype to increase physical safety and decrease safety concerns,reduce violence, and help build community. "
+  authors: "Dillahunt, T. R., Starks, D.L, Haimison, O.L"
+  mainlink: Anwar_PACMHCI20
+  resources:
+    - type: pdf
+      link: Starks_DIS19

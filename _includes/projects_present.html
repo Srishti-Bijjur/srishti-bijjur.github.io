@@ -11,7 +11,12 @@
         </div>
         <div class="row row-centered">
             {% for post in posts %}
-            <div class="col-xs-4 portfolio-item col-centered custom-resp">
+            {% assign counter = 0 %}
+            {% for item in site.data[post.datafile] %}
+                {% assign counter = counter | plus: 1 %}
+            {% endfor %}
+            {% if counter != 0 %}
+            <div class="col-xs-3 portfolio-item col-centered custom-resp">
                 <a href="{{ post.url }}" class="portfolio-link" >
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
@@ -21,10 +26,13 @@
                     <img src="assets/{{post.datafile}}/thumbnail.jpg" class="img-responsive custom-imgresp" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h4>
-                    <p class="text-muted">{{ post.subtitle }}</p>
+                        <h4><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h4>
+                        <p class="text-muted">{{ post.subtitle }}</p>
+                        <br>
+                        <p class="paper-num-count-text">Number of papers: {{counter}}</p>
                 </div>
             </div>
+            {% endif %}
             {% endfor %}
         </div>
     </div>

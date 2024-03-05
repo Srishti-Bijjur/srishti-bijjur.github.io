@@ -11,6 +11,9 @@ h4.sdg_heading {
 .logo {
 
 }
+.paper-num-count-text {
+  color: #777 !important;
+}
 
 .homelink {
     color: #ffffff;
@@ -424,7 +427,7 @@ section h3.section-subheading {
     margin:40px 0;
     padding: 30px;
     right: 0;
-    height: 450px;
+    height: 500px;
 }
 
 .projects .portfolio-item .portfolio-link {
