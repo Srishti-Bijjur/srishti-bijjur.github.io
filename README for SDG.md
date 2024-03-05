@@ -27,11 +27,14 @@ This README file exclusively provides instructions for adding a new article or p
 
 #Notes
 1. **Number of published papers in each SDG:**
-   - The number of papers will auto update as and when more papers are added in the future: The code for this is in the `_includes` file under the `projects_present.html`.
+   - The number of papers will auto-update as and when more papers are added in the future: The code for this is in the `_includes` file under the `projects_present.html`.
 
-2. **SDGs with no papers published :**
+2. **SDGs with no papers published:**
    - The SDGs that do not have any papers in them will not be shown on the website: The code for this is in the `_includes` file under the `projects_present.html`.
    - Note that files have been established for each Sustainable Development Goal (SDG) within the internal file structure. Hence, as papers are incorporated into any SDG file in the future, the system will automatically reflect the updates. For ex, if there are currently no papers in SDG Goal number 7 and you choose to include one, the website will dynamically display the SDG Goal 7 card and update the paper count to "1".
+  
+3. **Updating UN descriptions:**
+   - To update the current UN Description, open `_posts` and choose an SDGfile. Update `subtitle` and `description` fields. 
 
 
 ====================
