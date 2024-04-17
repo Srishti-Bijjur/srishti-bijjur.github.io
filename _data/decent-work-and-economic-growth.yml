@@ -4,7 +4,7 @@
   pic: Julie_ACM23_thumb
   abstract: "Small businesses are being encouraged to use digital technologies more than ever before. However, the greater emphasis on technology adoption puts underserved minority business owners (those who traditionally have faced barriers in accessing credit, capital and other resources) at greater risk of being left behind. We take an assets-based approach to understand business owners' strengths and challenges in adopting and using digital technologies. We then implement a community-based intervention---Community Tech Workers (CTWs)---to bridge the growing socio-technical gap in the context of small businesses on Detroit's Eastside, which are primarily Black-women-owned businesses. We take a mixed-methods approach, using a combination of a survey, interviews, and observations, to outline how the CTW program 1) helps businesses determine where to start with technology use, 2) offers support grounded in the day-to-day realities of running a business, and 3) builds caring relationships with business owners to foster trust in technology support services. We suggest opportunities for a more collective perspective on assets-based community development and outline considerations for building culturally-conscious ecosystems of support for digital engagement."
   authors: "Hui, J., Seefeldt, K.,Baer, C., Sanifu,L.,Jackson, A.,Dillahunt, T.R (2023)"
-  impact: "| In Proc. of the ACM'23 on Human Computer Interaction CSCW 2 |"
+  impact: "| In Proc. of the ACM'23 Conference on Human Computer Interaction CSCW 2 |"
   mainlink: Julie_ACM23
   resources:
     - type: pdf
@@ -14,7 +14,7 @@
   pic: Aarti_ACM23_thumb
   abstract: "Social media offers an alternative source for entrepreneurs to expand their social networks and obtain relevant resources to support their ambitions. Aspiring entrepreneurs with limited access to resources and social networks might rely more on the opportunities that social media tools offer. Aspiring entrepreneurs navigate social media to realize their economic dreams. Yet, those who face financial constraints often face challenges. Because aspiring entrepreneurs are transitioning to entrepreneurship, they must construct and even adapt to new work-role identities and new requisite skills, behaviors, attitudes, and patterns of interactions. In a re-analysis of a sub-sample of data from two empirical studies, this work examines how aspiring entrepreneurs living in a financially-constrained environment seek informational, social, and emotional support online and navigate their transition to entrepreneurship. These entrepreneurs obtained informational and emotional resources from observing other members’ posts in online communities, including the next steps needed to adapt to their desired small business work roles. However, few publicly disclosed their informational or emotional needs online. We extend existing research on financially-constrained entrepreneurs’ use of social media, contributing insights into how these resource-seeking practices limit their exploration of alternative entrepreneurial identities and feedback. We also contribute design implications to facilitate their online disclosure practices, including offering suggestions about ways to respond to questions and other disclosures in ways that restore trust and mitigate identity threats."
   authors: "Israni, A., Hui, J., and Dillahunt, T.R.(2023)"
-  impact: "| In Proc. of the ACM'23 on Human Computer Interaction, CSCW 1 |"
+  impact: "| In Proc. of the ACM'23 Conference on Human Computer Interaction, CSCW 1 |"
   mainlink: Aarti_ACM23
   resources:
     - type: pdf
@@ -34,7 +34,7 @@
   pic: Dillahunt_PACMHCI21_thumb
   abstract: "Rapid changes in technology are expected to limit the availability of decent work for millions of people worldwide. This particularly disadvantages socially and economically marginalized job seekers who are already being pushed into lower-wage precarious work with increasing levels of job insecurity. While the number of employment support tools that match job seekers to employers has been growing, marginalized job seekers still significantly rely on physical employment centers that have a track record of supporting the specific needs associated with marginalization and economic constraints. We drew from prior HCI and CSCW literature uncovering the employment and technology-related challenges that marginalized job seekers face and from the Psychology of Working Theory to frame our research questions and results. To complement this prior work, we investigated how employment center staff work with marginalized job seekers and moderate factors to securing decent work. We found in an interview of 21 employment center staff—career advisors and business services coordinators—that they performed significant work to prepare and encourage marginalized job seekers in applying to positions, while also training employers to be more inclusive and open-minded. Career advisors worked directly with job seekers to connect them with external resources, provide encouragement, strategize long-term goals, and mitigate feelings of stigma. Business services coordinators worked directly with employers to prepare job positions and employee support programs. Drawing from the expertise of employment centers, we contribute a framework for designing employment support tools that better serve the needs of marginalized job seekers, and outline tangible design implications that complement the support these organizations provide."
   authors: "Dillahunt, T. R., Garvin, M., Held, M., and Hui, J. (2021)"
-  impact: "| In Proc. of the ACM'21 on Human Computer Interaction, CSCW 2 |"
+  impact: "| In Proc. of the ACM'21 Conference on Human Computer Interaction, CSCW 2 |"
   mainlink: Dillahunt_PACMHCI21
   resources:
     - type: pdf
@@ -64,7 +64,7 @@
   pic: Seetharaman_PACMHCI21_thumb
   abstract: "The isolating nature of platform-based work, particularly gig work involving deliveries, has created unintended consequences over how workers engage with peers, friends, family, and society in general. We performed a qualitative study involving interviews with 21 delivery workers in Bangalore, India to understand how workers experienced and responded to social isolation perpetuated by the nature and daily function of their work. We found that the stigma and individual nature of app-based delivery work restricts access to inter-relational and instrumental support. As a response, workers organized peer networks for both companionship and emergency assistance. We analyze how the cultural context of India heightens these experiences, and offer ideas for mitigating the risks of isolation as a result of gig work."
   authors: "Seetharaman, B., Pal, J., and Hui., J. (2021)"
-  impact: "| In Proc. of the ACM'21 on Human Computer Interaction, CSCW 1 |"
+  impact: "| In Proc. of the ACM'21 Conference on Human Computer Interaction, CSCW 1 |"
   mainlink: Seetharaman_PACMHCI21
   resources:
     - type: pdf
@@ -104,7 +104,7 @@
   pic: Li_PACMHCI19_thumb
   abstract: "About 20% of the U.S. unemployed population has been out of the labor force for more than 6 months. The rise of the gig economy has changed the landscape of nontraditional employment opportunities for these predominantly low-skilled long-term unemployed workers. This particular type of on-demand work can be used to fill unemployment gaps and offers little to no training costs and flexible hours. Therefore, we explore whether driving as a form of gig work helps to mitigate the negative effects of long-term unemployment for low-skilled job seekers with employment gaps, and how employers evaluate workers who have held non-traditional jobs. Using a correspondence audit study with 1006 job applications, we evaluated whether a set of resumes “enhanced” with experience driving for a real-time ridesharing service received more callbacks than baseline resumes with an employment gap. We found no evidence that driving as a form of gig work increased the callback rates of applicants. In fact, we observed that in comparison to men, the callback rates for women slightly declined. Our study suggests that driving ‘gigs’ might not be a substitute for traditional employment on resumes for low-skilled workers. We contribute a call to CSCW to investigate methods that help to understand why real-time ridesharing services do not substitute for traditional jobs in bridging employment gaps and solutions on how to overcome it. Finally, we reflect on our use of audit studies in the new digital era and present potential CSCW and HCI contributions using this method."
   authors: "Li, L., Dillahunt, T. R., and Rosenblat, T. (2019)"
-  impact: "| In Proc. of the ACM'19 on Human Computer Interaction, CSCW |"
+  impact: "| In Proc. of the ACM'19 Conference on Human Computer Interaction, CSCW |"
   mainlink: Li_PACMHCI19
   resources:
     - type: pdf
@@ -115,7 +115,7 @@
   abstract: "When people experience major changes in their lives (e.g., relationship changes, transition from high school to college, realizing an LGBTQ identity, etc.), they often turn to social technologies to help navigate shifting identities and networks and find support and resources. People’s experiences using social technologies during times of life transition, and how to better design such technologies, has been a major focus of social computing research. This workshop will gather researchers working in this space to discuss eight themes: life events vs. processes; changing identities; multiple overlapping life events; physical and digital transitions; technology non-use during life transitions; liminality framework; theoretical frames; and methodological considerations. Collaboratively, we will 1) synergize insights from workshop organizers’ and participants’ research to determine how social technologies can be designed to better support people during life transitions and 2) outline an agenda for the future of social computing work on life transitions."
   # abstract: "Workshop Proposal | In ACM CSCW'19 Companion"
   authors: "Haimson, O. L., Semaan, B., Dym, B., Hsiao, J. C.-Y., Herron, D., and Moncur, W. (2019)"
-  impact: "| In Proc. of CSCW '19 Companion on Computer Supported Cooperative Work and Social Computing |"
+  impact: "| In Proc. of CSCW '19 Companion Conference on Computer Supported Cooperative Work and Social Computing |"
   mainlink: Haimson_CSCWws19
   resources:
     - type: pdf
@@ -126,7 +126,7 @@
   abstract: "While the shift to on-demand labor may foster greater control over one’s employment in some ways, it has removed much of the benefits that come with consistently working in shared physical spaces. Working in physical spaces allow opportunities for social support, long-term growth, and stability. The goal of this workshop is to facilitate a discussion around how physical spaces and online technologies influence each other in on-demand work. We plan to invite a diverse group of stakeholders, including researchers studying these topics, grassroots organizers who can represent and voice the concerns of their respective worker communities, and designers of on-demand work platforms. Discussion and ideas generated from this workshop will be archived online and made available to the larger research community and the general public."
   # abstract: "Workshop Proposal | In ACM CSCW'19 Companion"
   authors: "Hui, J., Cranshaw, J., Kotturi, Y., and Kulkarni, C. (2019)"
-  impact: "| In Proc. of CSCW '19 Companion on Computer Supported Cooperative Work and Social Computing |"
+  impact: "| In Proc. of CSCW '19 Companion Conference on Computer Supported Cooperative Work and Social Computing |"
   mainlink: Hui_CSCWws19
   resources:
     - type: pdf
@@ -136,7 +136,7 @@
   pic: Dillahunt_CHI18_thumb
   abstract: "Online technologies are increasingly hailed as enablers of entrepreneurship and income generation. Recent evidence suggests, however, that even the best such tools disproportionately favor those with pre-existing entrepreneurial advantages. Despite intentions, the technology on its own seems far from addressing socio-economic inequalities. Using participatory action research, we investigated why this might be, in an intimate, close-up context. Over a 1-year period, we— a collaborative team of university researchers and residents of Detroit’s East Side—worked to establish a neighborhood tour whose initial goal was to raise supplementary income and fundraise for community block clubs. We found that in addition to technical requirements, such as communication tools, a range of non-technological efforts is needed to manage projects, build self-efficacy, and otherwise support community participants. Our findings widen Ackerman’s “socio-technical gap” for some contexts and offer a counterpoint to overgeneralized claims about well-designed technologies being able to address certain classes of social challenges."
   authors: "*Honorable Mention* | Dillahunt, T. R., Kameswaran, V., McLain, D., Lester, M., Orr, D., and Toyama, K. (2018)"
-  impact: "| In proc. of CHI '18 on Human Factors in Computing Systems |"
+  impact: "| In proc. of CHI '18 Conference on Human Factors in Computing Systems |"
   mainlink: Dillahunt_CHI18
   resources:
     - type: pdf
@@ -146,7 +146,7 @@
   pic: pn0389-dillahuntv2_thumb
   abstract: "The digital-sharing economy presents opportunities for individuals to find temporary employment, generate extra income, increase reciprocity, enhance social interaction, and access resources not otherwise attainable. Although the sharing economy is profitable, little is known about its use among the unemployed or those struggling financially. This paper describes the results of a participatory-design based workshop to investigate the perception and feasibility of finding temporary employment and sharing spare resources using sharing-economy applications. Specifically, this study included 20 individuals seeking employment in a U.S. city suffering economic decline. We identify success factors of the digital-sharing economy to these populations, identify shortcomings and propose mitigation strategies based on prior research related to trust, social capital and theories of collective efficacy. Finally, we contribute new principles that may foster collaborative consumption within this population and identify new concepts for practical employment applications among these populations."
   authors: "Dillahunt, T. R. and Malone, A. R. (2015)"
-  impact: "| In Proc. of ACM CHI '15 on Human Factors in Computing Systems |"
+  impact: "| In Proc. of ACM CHI '15 Conference on Human Factors in Computing Systems |"
   mainlink: pn0389-dillahuntv2
   resources:
     - type: pdf
