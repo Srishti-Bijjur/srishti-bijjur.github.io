@@ -10,15 +10,6 @@
       url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77
 
 
-- name: Shruti Sannon
-  pic: shruti
-  position: Postdoctoral Computing Innovation Fellow
-  social:
-    - title: globe
-      url: http://shrutisannon.com
-    - title: linkedin
-      url: http://linkedin.com/in/sannon/
-
 
 - name: Vaishnav Kameswaran
   pic: vaishnav
@@ -96,7 +87,7 @@
 
 - name: Jared Katzman
   pic: jared
-  position:
+  position: UM Ph.D. Student
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/jaredleekatzman/

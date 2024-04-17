@@ -20,6 +20,15 @@
     - title: linkedin
       url: https://www.linkedin.com/in/ihudiyaogburu/
 
+- name: Shruti Sannon
+  pic: shruti
+  position: Postdoctoral Computing Innovation Fellow
+  social:
+    - title: globe
+      url: http://shrutisannon.com
+    - title: linkedin
+      url: http://linkedin.com/in/sannon/
+
 - name: James Lisowski
   pic: jlisowsk
   position: UM Undergraduate Student
